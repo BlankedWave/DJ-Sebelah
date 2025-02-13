@@ -9,8 +9,8 @@ module.exports = {
     options: [],
     run: async (client, interaction, lang) => {
         try {
-            const supportServerLink = "https://discord.gg/xQF9f9yUEM";
-            const githubLink = "https://github.com/GlaceYT";
+            const supportServerLink = "https://discord.gg/X6RT5VdJPQ";
+            const githubLink = "https://github.com/BlankedWave";
             const replitLink = "https://replit.com/@GlaceYT";
             const youtubeLink = "https://www.youtube.com/@GlaceYT";
 
