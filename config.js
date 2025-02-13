@@ -15,10 +15,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "Koi Node V4",
-      password: "NAIGLAVA-dash.techbyte.host",
-      host: "lavahatry4.techbyte.host",
-      port: 3000,
+      name: "Lavalink",
+      password: "mfkdlgmklmlenrfmklsdmnfkldnslkansdlknfdlksnflksdnkf",
+      host: "lavalink.ipv4.oreshi.com",
+      port: 2333,
       secure: false
     }
   ]
