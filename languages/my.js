@@ -8,7 +8,7 @@ module.exports = {
             responseTime: "- Masa Respons Bot : **{latency}ms**",
             websocketPing: "- Ping WebSocket : **{ping}ms**",
             uptime: "- Masa Beroperasi : **{uptime}**",
-            footer: "Dibangunkan oleh SSRR | Prime Music v1.2"
+            footer: "Dibangunkan oleh BlankedWave | DJ Sebelah v1.2"
         }
     },
     addsong: {
