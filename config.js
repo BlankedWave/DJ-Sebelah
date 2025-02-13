@@ -16,9 +16,9 @@ module.exports = {
   nodes: [
      {
       name: "Koi Node V4",
-      password: "https://alya-project.me/",
-      host: "lavalink.alya-project.me",
-      port: 2333,
+      password: "NAIGLAVA-dash.techbyte.host",
+      host: "lavahatry4.techbyte.host",
+      port: 3000,
       secure: false
     }
   ]
