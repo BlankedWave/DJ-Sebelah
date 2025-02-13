@@ -11,8 +11,8 @@ module.exports = {
         try {
             const supportServerLink = "https://discord.gg/X6RT5VdJPQ";
             const githubLink = "https://github.com/BlankedWave";
-            const replitLink = "https://replit.com/@GlaceYT";
-            const youtubeLink = "https://www.youtube.com/@GlaceYT";
+            // const replitLink = "https://replit.com/@GlaceYT";
+            // const youtubeLink = "https://www.youtube.com/@GlaceYT";
 
             const embed = new EmbedBuilder()
                 .setColor('#b300ff')
