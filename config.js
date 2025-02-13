@@ -16,10 +16,10 @@ module.exports = {
   nodes: [
      {
       name: "Koi Node V4",
-      password: "https://dsc.gg/ajidevserver",
-      host: "lavalinkv4.serenetia.com",
-      port: 443,
-      secure: true
+      password: "https://alya-project.me/",
+      host: "lavalink.alya-project.me",
+      port: 2333,
+      secure: false
     }
   ]
 }
