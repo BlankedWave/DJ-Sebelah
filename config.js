@@ -16,9 +16,9 @@ module.exports = {
   nodes: [
      {
       name: "Lavalink",
-      password: "mfkdlgmklmlenrfmklsdmnfkldnslkansdlknfdlksnflksdnkf",
-      host: "lavalink.ipv4.oreshi.com",
-      port: 2333,
+      password: "jmlitev4",
+      host: "46.202.82.164 ",
+      port: 1027,
       secure: false
     }
   ]
