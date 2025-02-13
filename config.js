@@ -16,9 +16,9 @@ module.exports = {
   nodes: [
      {
       name: "Lavalink",
-      password: "jmlitev4",
-      host: "46.202.82.164 ",
-      port: 1027,
+      password: "saher.inzeworld.com",
+      host: "lava.inzeworld.com",
+      port: 3128,
       secure: false
     }
   ]
