@@ -3,14 +3,14 @@
 module.exports = {
   TOKEN: "",
   language: "en",
-  ownerID: ["1004206704994566164", ""], 
+  ownerID: ["267958390389604362", ""], 
   mongodbUri : "",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
   activityName: "YouTube Music", 
-  activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
-  SupportServer: "https://discord.gg/xQF9f9yUEM",
+  activityType: "STREAMING",  // Available activity types : LISTENING , PLAYING
+  SupportServer: "https://discord.gg/X6RT5VdJPQ",
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
