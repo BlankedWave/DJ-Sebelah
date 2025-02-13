@@ -8,8 +8,8 @@ module.exports = {
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
-  activityName: "Hitz Yang Terkini!", 
-  activityType: "STREAMING",  // Available activity types : LISTENING , PLAYING
+  activityName: "Lagu Hits Yang Terkini!", 
+  activityType: "PLAYING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://discord.gg/X6RT5VdJPQ",
   embedTimeout: 5, 
   errorLog: "", 
