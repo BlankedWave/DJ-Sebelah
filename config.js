@@ -15,11 +15,11 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "MYHM.Space",
-      password: "d.gg/therepublic",
-      host: "ll3.myhm.space",
-      port: 443,
-      secure: true
+      name: "ChalresNaig Node",
+      password: "NAIGLAVA-dash.techbyte.host",
+      host: "lavahatry4.techbyte.host",
+      port: 3000,
+      secure: false
     }
   ]
 }
