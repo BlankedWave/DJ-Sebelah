@@ -15,11 +15,11 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "Lavalink",
-      password: "saher.inzeworld.com",
-      host: "lava.inzeworld.com",
-      port: 3128,
-      secure: false
+      name: "MYHM.Space",
+      password: "d.gg/therepublic",
+      host: "ll3.myhm.space",
+      port: 443,
+      secure: true
     }
   ]
 }
