@@ -15,10 +15,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "Jirayu.net[0] [recommend]",
-      password: "youshallnotpass",
-      host: "lavalink.jirayu.net",
-      port: 13592,
+      name: "Node",
+      password: "albinhakanson.se",
+      host: "lavalink1.albinhakanson.se",
+      port: 1141,
       secure: false
     }
   ]
