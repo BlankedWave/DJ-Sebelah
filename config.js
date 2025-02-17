@@ -15,10 +15,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "Node",
-      password: "albinhakanson.se",
-      host: "lavalink1.albinhakanson.se",
-      port: 1141,
+      name: "Alya Project",
+      password: "https://alya-project.me/",
+      host: "lavalink.alya-project.me",
+      port: 2333,
       secure: false
     }
   ]
