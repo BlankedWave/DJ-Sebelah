@@ -10,9 +10,6 @@ module.exports = {
     run: async (client, interaction, lang) => {
         try {
             const supportServerLink = "https://discord.gg/xQF9f9yUEM";
-            const githubLink = "https://github.com/GlaceYT";
-            const replitLink = "https://replit.com/@GlaceYT";
-            const youtubeLink = "https://www.youtube.com/@GlaceYT";
 
             const embed = new EmbedBuilder()
                 .setColor('#b300ff')
@@ -23,9 +20,6 @@ module.exports = {
                 })
                 .setDescription(lang.support.embed.description
                     .replace("{supportServerLink}", supportServerLink)
-                    .replace("{githubLink}", githubLink)
-                    .replace("{replitLink}", replitLink)
-                    .replace("{youtubeLink}", youtubeLink)
                 )
                 .setImage('https://64.media.tumblr.com/4f3edda0697eb29ed4f095ff326c88c8/13e1f1163ca9c4bc-e2/s400x600/636057e54cc3d9e9559ff6548555042a94b432a4.gif')
                 .setTimestamp();
