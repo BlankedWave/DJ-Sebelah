@@ -1,10 +1,10 @@
 module.exports = {
     footer: "Dibangunkan oleh BlankedWave | DJ Sebelah v1.2",
     ping: {
-        description: "Semak kependaman bot",
+        description: "Semak keterlambatan bot",
         response: "Menyemak...",
         embed: {
-            title: "Kependaman Bot",
+            title: "Keterlambatan Bot",
             responseTime: "- Masa Respons Bot : **{latency}ms**",
             websocketPing: "- Ping WebSocket : **{ping}ms**",
             uptime: "- Masa Beroperasi : **{uptime}**",
