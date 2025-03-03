@@ -15,9 +15,9 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "Alya Project",
-      password: "https://alya-project.me/",
-      host: "lavalink.alya-project.me",
+      name: "Robinz",
+      password: "youshallnotpass",
+      host: "robinz_lavalink.4tunez.xyz",
       port:  2333,
       secure: false
     }
