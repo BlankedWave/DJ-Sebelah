@@ -255,7 +255,7 @@ stop: {
 support: {
     embed: {
         authorName: "Pelayan Sokongan",
-        description: "➡️ **Sertai pelayan Discord kami untuk sokongan dan kemas kini:**\n- Discord - {supportServerLink}\n\n,
+        description: "➡️ **Sertai pelayan Discord kami untuk sokongan dan kemas kini:**\n- Discord - {supportServerLink}\n\n",
         error: "Ralat",
         errorDescription: "- Ralat berlaku semasa memproses permintaan anda."
     }
