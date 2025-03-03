@@ -15,11 +15,16 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "XX",
-      password: "enteryourcustompass",
-      host: "180.188.226.76",
-      port:  7019,
+      name: "Alya Project",
+      password: "https://alya-project.me/",
+      host: "lavalink.alya-project.me",
+      port:  2333,
       secure: false
     }
   ]
 }
+      // name: "XX",
+      // password: "enteryourcustompass",
+      // host: "180.188.226.76",
+      // port:  7019,
+      // secure: false
