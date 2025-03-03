@@ -8,7 +8,7 @@ module.exports = {
             responseTime: "- Masa Respons Bot : **{latency}ms**",
             websocketPing: "- Ping WebSocket : **{ping}ms**",
             uptime: "- Masa Beroperasi : **{uptime}**",
-            footer: "Dibangunkan oleh SSRR | Prime Music v1.2"
+            footer: "Dibangunkan oleh BlankedWave | DJ Sebelah v1.2"
         }
     },
     addsong: {
@@ -90,12 +90,12 @@ module.exports = {
             error: "Ralat",
             noPlayer: "- Tiada pemain aktif dijumpai. Sila mainkan lagu dahulu.",
             wrongChannel: "- Anda perlu berada dalam saluran suara yang sama dengan bot untuk menggunakan arahan ini.",
-            filtersCleared: "Semua penapis telah dibersihkan.",
-            invalidFilter: "Penapis tidak sah dipilih.",
-            filterApplied: "Penapis **{filter}** telah digunakan.",
+            filtersCleared: "Semua filter telah dibersihkan.",
+            invalidFilter: "Filter tidak sah dipilih.",
+            filterApplied: "Filter **{filter}** telah digunakan.",
             errorProcessing: "- Ralat berlaku semasa memproses permintaan anda."
         },
-        commandDescription: "Pilih penapis untuk digunakan"
+        commandDescription: "Pilih filter untuk digunakan"
     },
     help: {
         embed: {
@@ -180,24 +180,24 @@ module.exports = {
     },
     queue: {
     embed: {
-        queueEmpty: "Barisan Kosong",
-        queueEmptyDescription: "- Barisan sedang kosong. Tambah lagu menggunakan arahan `/play`.",
-        currentQueue: "Barisan Semasa",
-        noMoreSongs: "- Tiada lagi lagu dalam barisan.",
+        queueEmpty: "Senarai Kosong",
+        queueEmptyDescription: "- Senarai sedang kosong. Tambah lagu menggunakan arahan `/play`.",
+        currentQueue: "Senarai Semasa",
+        noMoreSongs: "- Tiada lagi lagu dalam senarai.",
         error: "Ralat",
-        errorDescription: "- Ralat berlaku semasa mendapatkan barisan."
+        errorDescription: "- Ralat berlaku semasa mendapatkan senarai."
     }
 },
 remove: {
     embed: {
-        queueEmpty: "Barisan Kosong",
-        queueEmptyDescription: "- Barisan sedang kosong. Tambah lagu menggunakan arahan `/play`.",
+        queueEmpty: "Senarai Kosong",
+        queueEmptyDescription: "- Senarai sedang kosong. Tambah lagu menggunakan arahan `/play`.",
         invalidPosition: "Ralat",
         invalidPositionDescription: "- Kedudukan tidak sah. Masukkan nombor antara 1 dan {queueLength}.",
         songRemoved: "Lagu Dibuang",
-        songRemovedDescription: "- Lagu dibuang: **{songTitle}** daripada barisan.",
+        songRemovedDescription: "- Lagu dibuang: **{songTitle}** daripada senarai.",
         error: "Ralat",
-        errorDescription: "- Ralat berlaku semasa membuang lagu daripada barisan."
+        errorDescription: "- Ralat berlaku semasa membuang lagu daripada senarai."
     }
 },
 resume: {
@@ -224,12 +224,12 @@ showsongs: {
 },
 shuffle: {
     embed: {
-        queueEmpty: "Barisan Kosong",
-        queueEmptyDescription: "- Barisan sedang kosong. Tambah lagu menggunakan arahan `/play`.",
-        queueShuffled: "Barisan Diacak",
-        queueShuffledDescription: "- Barisan telah diacak dengan jayanya.",
+        queueEmpty: "Senarai Kosong",
+        queueEmptyDescription: "- Senarai sedang kosong. Tambah lagu menggunakan arahan `/play`.",
+        queueShuffled: "Senarai Diacak",
+        queueShuffledDescription: "- Senarai telah diacak dengan jayanya.",
         error: "Ralat",
-        errorDescription: "- Ralat berlaku semasa mengacak barisan."
+        errorDescription: "- Ralat berlaku semasa mengacak Senarai."
     }
 },
 skip: {
@@ -255,7 +255,7 @@ stop: {
 support: {
     embed: {
         authorName: "Pelayan Sokongan",
-        description: "➡️ **Sertai pelayan Discord kami untuk sokongan dan kemas kini:**\n- Discord - {supportServerLink}\n\n➡️ **Ikuti kami di:**\n- GitHub - {githubLink}\n- Replit - {replitLink}\n- YouTube - {youtubeLink}",
+        description: "➡️ **Sertai pelayan Discord kami untuk sokongan dan kemas kini:**\n- Discord - {supportServerLink}\n\n,
         error: "Ralat",
         errorDescription: "- Ralat berlaku semasa memproses permintaan anda."
     }
