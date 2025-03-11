@@ -5,6 +5,8 @@ module.exports = {
   language: "my",
   ownerID: ["267958390389604362", ""], 
   mongodbUri : "",
+  spotifyClientId : "",
+  spotifyClientSecret : "",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
