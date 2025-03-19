@@ -17,11 +17,11 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "GlaceYT",
-      password: "glaceyt",
-      host: "193.226.78.187",
-      port:  9372,
-      secure: false
+      name: "Disutils Team Lavalink 1",
+      password: "https://disutils.com",
+      host: "lavalink-1.is-it.pink",
+      port:  443,
+      secure: true
     }
   ]
 }
