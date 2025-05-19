@@ -17,12 +17,11 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "Jirayu",
-      password: "youshallnotpass",
-      host: "lavalink.jirayu.net",
-      port:  13592,
+      name: "musik-node",
+      password: "plamea",
+      host: "lavalink.pericsq.ro",
+      port:  4499,
       secure: false
-
     }
   ]
 }
