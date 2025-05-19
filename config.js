@@ -17,10 +17,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "musik-node",
-      password: "plamea",
-      host: "lavalink.pericsq.ro",
-      port:  4499,
+      name: "Jirayu",
+      password: "youshallnotpass",
+      host: "lavalink.jirayu.net",
+      port:  13592,
       secure: false
     }
   ]
