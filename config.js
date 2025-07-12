@@ -17,10 +17,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "AjieDev-LDP-NonSSL",
-      password: "https://dsc.gg/ajidevserver",
-      host: "lava-all.ajieblogs.eu.org",
-      port:  80,
+      name: "RY4N",
+      password: "youshallnotpass",
+      host: "89.251.21.22",
+      port: 25691,
       secure: false
     }
   ]
