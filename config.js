@@ -17,11 +17,11 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "RY4N",
+      name: "jirayu",
       password: "youshallnotpass",
-      host: "89.251.21.22",
-      port: 25691,
-      secure: false
+      host: "lavalink.jirayu.net",
+      port: 13592,
+      secure: false 
     }
   ]
 }
