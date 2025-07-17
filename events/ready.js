@@ -43,7 +43,7 @@ module.exports = async (client) => {
         //console.log(`🎵 Now Playing: ${trackName}`);
 
         client.user.setActivity({
-            name: `: ${trackName}`,
+            name: `${trackName}`, //paparan pada bot status untuk lagu yang tengah dimainkan
             type: ActivityType.Playing
         });
     }
