@@ -17,10 +17,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "mushroom0162",
-      password: "yothisnodeishostedbymushroom0162",
-      host: "69.30.219.180",
-      port:  1047,
+      name: "Serenetia-LDP-NonSSL",
+      password: "https://dsc.gg/ajidevserver",
+      host: "lavalink.serenetia.com",
+      port:  80,
       secure: false
     }
   ]
