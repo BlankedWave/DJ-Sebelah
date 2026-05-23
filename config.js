@@ -26,9 +26,9 @@ module.exports = {
   nodes: [
       {
       name: "serenetia",
-      password: "https://seretia.link/discord",
-      host: "lavalinkv4.serenetia.com",
-      port: 80,
+      password: "lavalinklol",
+      host: "lava.g3v.co.uk",
+      port: 9008,
       secure: false
     }
   ]
